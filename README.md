@@ -25,3 +25,7 @@ Application works only with integer operands.
     - Execute `dotnet run` via CLI if current folder is `Globo.Calculator.Host`, or specify path to project by `--project` attribute or
     - Set `Globo.Calculator.Host` as startup project (if not set) and run via Visual Studio.
 1. Enter `exit` command as expression to stop equation, and close the application.
+
+## New Section
+1. lorem ipsum
+2. dolor met
